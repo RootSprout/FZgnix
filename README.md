@@ -42,3 +42,4 @@ main -> core cycle -> config + module initialization -> event loop
 ```
 
 See [ROADMAP.md](ROADMAP.md) for the planned sequence mapped to the book.
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the component walkthrough and request-flow diagram.
