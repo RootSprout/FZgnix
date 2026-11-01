@@ -4,6 +4,8 @@ This document describes the implementation that is in the repository today. `ngn
 
 ## Architecture diagram
 
+PNG export: [architecture.png](architecture.png). The editable vector source is [architecture.svg](architecture.svg).
+
 ```mermaid
 flowchart TD
     Args[CLI arguments] --> Main[src/main.c]
